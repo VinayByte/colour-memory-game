@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="game_logo_width">80dp</dimen>
+    <dimen name="low_spacing">6dp</dimen>
+    <dimen name="half_spacing">8dp</dimen>
+    <dimen name="half_spacing_high">10dp</dimen>
+    <dimen name="three_fourth_spacing">12dp</dimen>
+    <dimen name="spacing">16dp</dimen>
+    <dimen name="large_spacing_1">20dp</dimen>
+</resources>
